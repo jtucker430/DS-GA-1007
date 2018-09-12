@@ -1,0 +1,10 @@
+Test file with text
+
+Adding some more text.
+
+Now going to commit.
+
+Now going to make some changes after committing.
+
+Look - changes!
+
